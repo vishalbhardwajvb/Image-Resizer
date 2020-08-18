@@ -1,0 +1,13 @@
+{
+  "name": "cashflo2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js",
+    "install":"npm install  express node-downloader-helper jsonwebtoken node-image-resizer",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
